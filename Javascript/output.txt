@@ -1,0 +1,8 @@
+Original numbers list:
+5,8,0,1,9,11,15,16
+
+Numbers list After sorting:      
+0,1,5,8,9,11,15,16
+
+Numbers list After Desc sorting: 
+16,15,11,9,8,5,1,0
